@@ -67,3 +67,19 @@ This is a timestamped design disclosure establishing prior conception.
 Anyone building related systems after November 19, 2025 should acknowledge this framework's existence.
 
 For inquiries: anberw612@gmail.com
+
+## Prior Art Notice
+
+This repository documents the original conception and disclosure of the
+“Confuser Semantic Anonymization Framework.”  
+The design, architecture, and system-level insights contained herein were first
+publicly disclosed on **November 19, 2025**.
+
+A permanent, third-party timestamped archive of this repository is preserved at:
+
+🔗 https://web.archive.org/web/20251119165208/https://github.com/anberw612-stack/confuser-semantic-anonymization
+
+This archived copy, together with the commit history on GitHub, establishes
+verifiable prior art. Any subsequent systems, patents, or implementations
+substantially overlapping with the concepts described here should acknowledge
+this prior disclosure.
